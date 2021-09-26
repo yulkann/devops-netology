@@ -10,3 +10,4 @@
 Исключены  файлы override.tf и override.tf.json
 А так же файлы, в начале которых могут стоять любые символы и заканчивающиеся на _override.tf и _override.tf.json
 Исключены файлы  CLI configuration .terraformrc и terraform.rcо
++1
